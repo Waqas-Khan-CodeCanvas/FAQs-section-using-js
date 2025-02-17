@@ -10,8 +10,7 @@
 - 🔥 Smooth animations for a better user experience
 
 ## 🔗 Live Demo
-Check out the live project deployed on **Netlify**: [Live Demo](#) *(Replace with your Netlify URL)*
-
+Check out the live project deployed on **Netlify**: [Live Demo](https://dynamic-faq-section.netlify.app/)
 ## 🛠️ Technologies Used
 - **HTML5**
 - **CSS3** (Flexbox, Animations)
